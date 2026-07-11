@@ -1,0 +1,2 @@
+# sportpulze
+Sportrajongók személyes lexikona
